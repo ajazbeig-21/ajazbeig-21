@@ -85,9 +85,9 @@ A complete production-grade pipeline:
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** *(https://www.linkedin.com/in/ajaz-beig-6b0402193/)*  
+- **LinkedIn:** *https://www.linkedin.com/in/ajaz-beig-6b0402193/*  
 - **Email:** *ajazbeig200@gmail.com*  
-- **YouTube (Tech Content):** *(https://www.youtube.com/@TechWithAjaz)*
+- **YouTube (Tech Content):** *https://www.youtube.com/@TechWithAjaz*
 
 ---
 
